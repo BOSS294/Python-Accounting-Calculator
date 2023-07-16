@@ -1,4 +1,5 @@
 **🖩 Accounting Calculator with Python and Tkinter GUI 📊**
+![image](https://github.com/BOSS294/Python-Accounting-Calculator/assets/72921622/a939f307-f39b-4d09-9b21-a6e26139fb51)
 
 This repository houses an interactive accounting calculator built using Python and the Tkinter library. The calculator provides a user-friendly graphical user interface (GUI) and supports essential arithmetic operations while incorporating some basic accounting functions. 💼💹
 
